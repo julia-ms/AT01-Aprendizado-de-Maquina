@@ -1,3 +1,4 @@
+# Pedi um código pronto de KNN para o chat GPT para testar e comparar os resultados com o código desenvolvido por mim
 import numpy as np
 import pandas as pd
 from sklearn.metrics import pairwise_distances
